@@ -99,18 +99,7 @@ FastAPI_Server/
 ├── requirements.txt
 └── README.md               # Documentation (this file)
 
-🔐 Environment Configuration
-DB_HOST=localhost
-DB_PORT=5432
-DB_NAME=jupyter_db
-DB_USER=postgres
-DB_PASSWORD=Danawawa1
 
-SERVER_HOST=127.0.0.1
-SERVER_PORT=8000
-
-MASTER_KEY=c5b86074d39ccf509d527829e4d677efa36973d8ee65e67fbf82c4adb36dc23f
-JWT_SECRET=4d39c3542619ff6944127036b75f034a6bea02d33462ad4eca218043ec3b967abea584ebe9c394c5408f268d
 
 🧱 Database Schema
 
